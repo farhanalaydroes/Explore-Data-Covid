@@ -22,7 +22,7 @@
 </p> 
 
 <p align="center">
-  Dashboard Diatas berisi informasi terkait data penyebaran virus COVID-19 di indonesia.
+  <strong>Dashboard Diatas berisi informasi terkait data penyebaran virus COVID-19 di indonesia.</strong>
 </p>
   
 <p align="justify">
