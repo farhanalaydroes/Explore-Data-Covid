@@ -1,12 +1,12 @@
 <p align="center">
-  <a href='https://www.tableau.com/'><img src="README/logo.png"></a>
+  <a href='https://www.tableau.com/'><img src="README/tableaulogo.png"></a>
 </p> 
 
 
 <h1 align="center">Tableau Explore Data Covid</h1>
 
 <p align="center">
-  Repositori ini berisi tentang hasil pembelajaran saya dalam mengeksplor data penyebaran virus COVID-19 yang saya visualisasikan menggunakan aplikasi Tableau.</strong> dari <strong>My Skill</strong>.
+  Repositori ini berisi tentang hasil pembelajaran saya dalam mengeksplor data penyebaran virus COVID-19 yang saya visualisasikan menggunakan aplikasi Tableau.
 </p>
 
 <p align="justify">
@@ -18,11 +18,15 @@
 <details><summary>Portofolio Dashboard</summary>
 
 <p align="center">
-  <a href='https://datastudio.google.com/reporting/4467de31-564e-411a-a800-ab062ba8fe73'><img src="README/Dashboard.png"></a>
+  <a href='https://www.kaggle.com/hendratno/covid19-indonesia'><img src="README/Dashboard Covid.png"></a>
 </p> 
 
 <p align="center">
-  Dashboard Diatas berisi informasi terkait kondisi performa keseluruhan dari perusahaan telekomunikasi tanpa di filter.
+  Dashboard Diatas berisi informasi terkait data penyebaran virus COVID-19 di indonesia.
+</p>
+  
+<p align="justify">
+  nb: Detail informasi terkait dashboard ini bisa cek file Detail Dashboard Covid.pdf di dalam repository ini .
 </p>
   
 </details>
