@@ -10,6 +10,10 @@
 </p>
 
 <p align="justify">
+  Tools Visualisasi : <strong>Tableau</strong>
+</p>
+
+<p align="justify">
   Source Data :
 </p>
   <a href="https://www.kaggle.com/hendratno/covid19-indonesia" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Kaggle-2C8EBB?&style=for-the-badge&logo=kaggle&logoColor=white" /></a>
