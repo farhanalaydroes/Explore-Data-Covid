@@ -25,8 +25,7 @@
   <strong>Dashboard Diatas berisi informasi terkait data penyebaran virus COVID-19 di indonesia.</strong>
 </p>
   
-<p align="justify">
-  nb: Detail informasi terkait dashboard ini bisa cek file Detail Dashboard Covid.pdf di dalam repository ini .
-</p>
-  
 </details>
+<p align="justify">
+  Notes : Link menuju Tableau Public bisa klik logo Tableau di atas.
+</p>
