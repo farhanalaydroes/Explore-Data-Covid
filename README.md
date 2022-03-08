@@ -7,7 +7,7 @@
 <p align="justify">
   Tools Visualisasi : 
 </p>
- <a href="https://public.tableau.com/views/PracticeDataCovid/Dashboard1?:display_count=n&:origin=viz_share_link" target="_blank"><img alt="Medium" src="README/tableaulogo.png" /></a>
+ <a href="https://public.tableau.com/app/profile/muhammad.farhan8590/viz/PracticeDataCovid/Dashboard1" target="_blank"><img alt="Medium" src="README/tableaulogo.png" /></a>
 
 <p align="justify">
   Source Data :
