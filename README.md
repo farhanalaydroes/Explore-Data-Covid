@@ -18,7 +18,7 @@
 <details><summary>Portofolio Dashboard</summary>
 
 <p align="center">
-  <a href='https://www.kaggle.com/hendratno/covid19-indonesia'><img src="README/Dashboard Covid.png"></a>
+  <a href='https://public.tableau.com/app/profile/muhammad.farhan8590/viz/PracticeDataCovid/Dashboard1'><img src="README/Dashboard Covid.png"></a>
 </p> 
 
 <p align="center">
